@@ -4,7 +4,7 @@ import Ativos from '../Components/Ativos';
 const Home = () => {
     return (
         <div>
-            <h1>MyFinance</h1>
+            <h1>Home</h1>
             <Ativos></Ativos>
         </div>
     );
